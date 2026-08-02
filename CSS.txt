@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<html>
+    <title>Academy of Learning</title>
+    <body>This is the body</body>
+</html>	

@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
+<tag name>Hello Academy of Learning</tag name>
+<p> This is a paragraph created as part of the learning process. </p>
+</html>
